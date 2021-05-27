@@ -1,0 +1,9 @@
+.\objects\ringbuffer.o: Gizwits\ringbuffer.c
+.\objects\ringbuffer.o: Gizwits\ringBuffer.h
+.\objects\ringbuffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ringbuffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ringbuffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ringbuffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ringbuffer.o: Gizwits\common.h
+.\objects\ringbuffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ringbuffer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
